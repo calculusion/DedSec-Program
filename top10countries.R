@@ -5,7 +5,7 @@ library(readr)
 library(zoo)
 
 # Load CSV
-tourism_data <- read.csv("C:/Users/giria/downloads/world_tourism_economy_data.csv")
+tourism_data <- read.csv("C:/Users/AsperDes/Desktop/Dedsec_R_Project/world_tourism_economy_data.csv")
 
 # Exclude non-countries
 non_countries <- c(
