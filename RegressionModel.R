@@ -4,7 +4,7 @@ library(dplyr)
 library(ggplot2)
 
 # Load and prepare data
-tourism_data <- read.csv("C:\Users\sangs\Desktop\MY JUMBO FILE\R Project\world_tourism_economy_data.csv")
+tourism_data <- read.csv("C:/Users/sangs/Desktop/MY JUMBO FILE/R Project/world_tourism_economy_data.csv")
 
 # Exclude non-countries
 non_countries <- c(
